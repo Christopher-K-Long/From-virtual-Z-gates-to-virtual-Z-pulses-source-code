@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: From virtual Z gates to virtual Z pulses source code
+  If you use From virtual Z gates to virtual Z pulses source code, please
+  cite the accompanying paper:
+
+    ...
+
+  Additionally, you can reference this code base using this CFF file.
+type: software
+authors:
+  - given-names: Christopher K.
+    family-names: Long
+    email: ckl45@cam.ac.uk
+    affiliation: University of Cambridge Department of Physics and Hitachi Cambridge Laboratory
+    orcid: 'https://orcid.org/0009-0001-3230-942X'
+  - given-names: Crispin H. W.
+    family-names: Barnes
+    affiliation: University of Cambridge Department of Physics
+    orcid: 'https://orcid.org/0000-0001-7337-7245'
+repository-code: 'https://github.com/Christopher-K-Long/Virtual_Z_gates_at_the_pulse_level_source_code_repository'
+url: 'https://github.com/Christopher-K-Long/PySTE'
+abstract: >-
+  The source code supporting the paper:
+
+    ...
+license: Apache-2.0
+version: 0.1.0
+date-released: '2025-09-15'

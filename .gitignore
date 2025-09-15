@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+*.pkl
+virtual_z_pulse.egg-info
+!.github
+data
+figures
