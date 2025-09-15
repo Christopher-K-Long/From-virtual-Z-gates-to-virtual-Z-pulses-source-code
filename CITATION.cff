@@ -17,8 +17,8 @@ authors:
     family-names: Barnes
     affiliation: University of Cambridge Department of Physics
     orcid: 'https://orcid.org/0000-0001-7337-7245'
-repository-code: 'https://github.com/Christopher-K-Long/Virtual_Z_gates_at_the_pulse_level_source_code_repository'
-url: 'https://github.com/Christopher-K-Long/PySTE'
+repository-code: 'https://github.com/Christopher-K-Long/From-virtual-Z-gates-to-virtual-Z-pulses-source-code'
+url: 'https://github.com/Christopher-K-Long/From-virtual-Z-gates-to-virtual-Z-pulses-source-code'
 abstract: >-
   The source code supporting the paper:
 
