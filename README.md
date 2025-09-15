@@ -1,6 +1,6 @@
 # From virtual Z gates to virtual Z pulses source code
 
-[![DOI](https://zenodo.org/badge/{1056126216}.svg)](https://zenodo.org/badge/latestdoi/{1056126216})
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17123422.svg)](https://doi.org/10.5281/zenodo.17123422)
 
 This repository contains the source code required to reproduce and plot the data presented in:
 
