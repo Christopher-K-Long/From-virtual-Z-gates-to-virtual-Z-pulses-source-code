@@ -4,7 +4,7 @@
 
 This repository contains the source code required to reproduce and plot the data presented in:
 
-C. K. Long and C. H. W. Barnes, From virtual z gates to virtual z pulses, 2025. arXiv: 2509.13453 \[quant-ph\]. https://arxiv.org/abs/2509.13453.
+C. K. Long and C. H. W. Barnes, From virtual Z gates to virtual Z pulses, 2025. arXiv: 2509.13453 \[quant-ph\]. https://arxiv.org/abs/2509.13453.
 
 ## Installation
 
