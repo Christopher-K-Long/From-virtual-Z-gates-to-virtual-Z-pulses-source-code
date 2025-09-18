@@ -4,7 +4,8 @@ message: >-
   If you use From virtual Z gates to virtual Z pulses source code, please
   cite the accompanying paper:
 
-    ...
+    C. K. Long and C. H. W. Barnes, From virtual z gates to virtual z pulses,
+    2025. arXiv: 2509.13453 \[quant-ph\]. https://arxiv.org/abs/2509.13453.
 
   Additionally, you can reference this code base using this CFF file.
 type: software
@@ -23,11 +24,12 @@ url: 'https://github.com/Christopher-K-Long/From-virtual-Z-gates-to-virtual-Z-pu
 abstract: >-
   The source code supporting the paper:
 
-    ...
+    C. K. Long and C. H. W. Barnes, From virtual z gates to virtual z pulses,
+    2025. arXiv: 2509.13453 \[quant-ph\]. https://arxiv.org/abs/2509.13453.
 identifiers:
   - description: Archives of each released version
     type: doi
     value: "10.5281/zenodo.17123422"
 license: Apache-2.0
 version: 0.1.0
-date-released: '2025-09-15'
+date-released: '2025-09-18'
